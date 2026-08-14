@@ -90,4 +90,4 @@ PyRxOnload/
 
 ## 许可证
 
-未指定。如需开源发布，请自行补充 LICENSE 文件。
+[MIT](LICENSE)
